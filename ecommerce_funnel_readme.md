@@ -141,3 +141,7 @@ The November user cohort showed a **3x higher conversion rate** compared to Octo
 - A/B testing framework for user acquisition strategies
 - Automated alerting for conversion rate anomalies
 - Deeper analysis of November acquisition channels
+
+
+## Dataset 
+- Too big to upload link - https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
