@@ -1,6 +1,6 @@
 # E-commerce Funnel Analysis
 
-A comprehensive data analysis project that uncovered critical insights into e-commerce conversion rates and identified key opportunities for business growth through systematic funnel analysis.
+A data analysis project that uncovered critical insights into e-commerce conversion rates and identified key opportunities for business growth through systematic funnel analysis.
 
 ## Project Overview
 
